@@ -1,0 +1,6 @@
+.staticNavbar{
+    width: 100%;
+    top: 0;
+    transition: 5s ease-in;
+    z-index: 20;
+}
